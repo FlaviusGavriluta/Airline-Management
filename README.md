@@ -11,9 +11,9 @@
 * The airline provides premium quality Analog Compasses to pilots but only once, sometime after they got employed.
 * We should be able to check if a flight is ready to take off (with checking every Employee whether they are ready or not);
 	the conditions of the clearance are:
-* The Captain and the Co-pilot have received their Compasses already.
-* The number of Passengers is less than 220.
-* All the Attendants speak the language of the flight.
-* Log the steps of the clearance check (passed / failed, and why)!
+	* The Captain and the Co-pilot have received their Compasses already.
+	* The number of Passengers is less than 220.
+	* All the Attendants speak the language of the flight.
+	* Log the steps of the clearance check (passed / failed, and why)!
 
 ### Hints: you should have an abstract class or interface, use inheritance, data hiding and make sure there is no code repetition.
